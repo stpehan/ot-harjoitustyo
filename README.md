@@ -1,12 +1,13 @@
-# ensimmäinen rivi
-## toinen rivi
-### kolmas rivi
+# Ohjelmistotekniikka harjoitustyö
+## Tehtävät
+### Viikko 1
 
+[komentorivi.txt](/laskarit/viikko1/komentorivi.txt)
+[gitlog.txt](/laskarit/viikko1/gitlog.txt)
 
 **lihava teksti**
 *italialainen teksti*
 ~~viivateksti~~
 
 
-[komentorivi.txt](/laskarit/viikko1/komentorivi.txt)
-[gitlog.txt](/laskarit/viikko1/gitlog.txt)
+
