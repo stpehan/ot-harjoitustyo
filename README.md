@@ -7,8 +7,12 @@
 [gitlog.txt](/laskarit/viikko1/gitlog.txt)
 
 **lihava teksti**
+
 *italialainen teksti*
+
 ~~viivateksti~~
+
 yksi rivi lisää
 
+<sub>*pieni muutos*</sub>
 
