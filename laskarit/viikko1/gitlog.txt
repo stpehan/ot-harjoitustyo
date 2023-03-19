@@ -1,0 +1,105 @@
+commit a005269b6536d3d68721a9fdc2e486cd3861ec5c
+Author: stpehan <stephan.andonov15@gmail.com>
+Date:   Sun Mar 19 17:56:50 2023 +0200
+
+    en tiiä
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ tiedostoja/file3             | 1 +
+ 3 files changed, 1 insertion(+)
+
+commit 9ec2c4459cb2d0faf63ad4c17786e98dfb949e6f
+Author: stpehan <stephan.andonov15@gmail.com>
+Date:   Sun Mar 19 17:52:44 2023 +0200
+
+    lisätty kolme tiedostoa
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 35b68b66b9b2060eb032d5a67c6b06cdde6ebc64
+Author: stpehan <stephan.andonov15@gmail.com>
+Date:   Sun Mar 19 17:48:50 2023 +0200
+
+    muutoksia tehty
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit cb1a1d9cd394912f2e780863206d39fbffd88737
+Author: stpehan <stephan.andonov15@gmail.com>
+Date:   Sun Mar 19 17:44:31 2023 +0200
+
+    tiedosto.txt nimi muutettu eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit b30fd3063f02c954b73288c7ee32d16661c11a72
+Author: stpehan <stephan.andonov15@gmail.com>
+Date:   Sun Mar 19 17:42:58 2023 +0200
+
+    poistettu toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit f0d0757c66a97eeb5a8bfdabf385c5fbbbb41c92
+Author: stpehan <stephan.andonov15@gmail.com>
+Date:   Sun Mar 19 17:41:17 2023 +0200
+
+    muutetttu tiedosto.txt
+
+ tiedosto.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 2337c9a12e99cb090bbcacd2d3bc10330a7ee691
+Author: stpehan <stephan.andonov15@gmail.com>
+Date:   Sun Mar 19 17:12:36 2023 +0200
+
+    muokattu tiedosto.txt
+
+ tiedosto.txt | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+
+commit 5891b9e693850e867b0f5dc2a994b0da2ac5ad54
+Author: stpehan <stephan.andonov15@gmail.com>
+Date:   Sun Mar 19 16:48:24 2023 +0200
+
+    lisätty stuff
+
+ stuff/x | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit aa1fd4cd5b196933c34f5ce767420bf00e7919f1
+Author: stpehan <stephan.andonov15@gmail.com>
+Date:   Sun Mar 19 16:46:55 2023 +0200
+
+    muutos ja lisäys
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 8d474b98b8bf88faa56bac26d8fb42a684b7ee0b
+Author: stpehan <stephan.andonov15@gmail.com>
+Date:   Sun Mar 19 16:42:49 2023 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 86bfcf1548bdfa98115cbdc50150ce4b2fe1334c
+Author: stpehan <stephan.andonov15@gmail.com>
+Date:   Sun Mar 19 16:40:02 2023 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
