@@ -6,6 +6,9 @@
 
 [gitlog.txt](/laskarit/viikko1/gitlog.txt)
 
+[alustava vaatimusmäärittely](/dokumentaatio/vaatimusmaarittely.md)
+
+Testitekstejä:
 **lihava teksti**
 
 *italialainen teksti*
