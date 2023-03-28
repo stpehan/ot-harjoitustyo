@@ -1,8 +1,8 @@
-## Alustava vaatimusmäärittely
+### Alustava vaatimusmäärittely
 
-#Yksinkertainen 2D fysiikkasimulaattori
+## Yksinkertainen 2D fysiikkasimulaattori
 
-Kaksi eri näkymää:
+# Kaksi eri näkymää:
 - "Ylhäältä alas" (top-down view), jossa käyttäjä näkee "lattialla" 
 olevat objektit yltä katsottuna (kuvittele biljardipöytä, jossa palloja)
 
@@ -10,7 +10,7 @@ olevat objektit yltä katsottuna (kuvittele biljardipöytä, jossa palloja)
 miten objektit käyttäytyvät painovoiman vallassa 
 
 
-Toiminnallisuudet:
+# Toiminnallisuudet:
 - muutamia erilaisia palikoita, joilla eri fyysiset ominaisuudet, 
 joista käyttäjä voi valita spawnattavaksi
 - palikat pystyvät vuorovaikuttamaan toistensa kanssa (esim. törmäykset)
