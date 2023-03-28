@@ -2,12 +2,12 @@ commit a005269b6536d3d68721a9fdc2e486cd3861ec5c
 Author: stpehan <stephan.andonov15@gmail.com>
 Date:   Sun Mar 19 17:56:50 2023 +0200
 
-    en tiiä
+    file1 poistettu, file2 nimi muutettu file22, file3 muutos
 
- tiedostoja/file1             | 0
+ tiedostoja/file1             | 1 -
  tiedostoja/{file2 => file22} | 0
  tiedostoja/file3             | 1 +
- 3 files changed, 1 insertion(+)
+ 3 files changed, 1 insertion(+), 1 deletion (-)
 
 commit 9ec2c4459cb2d0faf63ad4c17786e98dfb949e6f
 Author: stpehan <stephan.andonov15@gmail.com>
