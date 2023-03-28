@@ -8,6 +8,8 @@
 
 [alustava vaatimusmäärittely](/dokumentaatio/vaatimusmaarittely.md)
 
+[työaikakirjanpito](/dokumentaatio/kirjanpito.md)
+
 Testitekstejä:
 **lihava teksti**
 
