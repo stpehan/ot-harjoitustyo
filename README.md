@@ -1,18 +1,16 @@
 # Ohjelmistotekniikka harjoitustyö
-## Tehtävät
-### Viikko 1
 
-[komentorivi.txt](/laskarit/viikko1/komentorivi.txt)
+##Physics 2D
 
-[gitlog.txt](/laskarit/viikko1/gitlog.txt)
+Projektina yksinkertainen 2D fysiikkasimulaattori. 
 
-**lihava teksti**
+Simulaattorin voi käynnistää menemällä Physics-2D kansioon
+ja suorittamalla komennon:
+`poetry run invoke start`
 
-*italialainen teksti*
 
-~~viivateksti~~
+##Tämänhetkiset toiminnallisuudet:
+Simulaattorissa voi klikkaamalla lisätä palikan, joka tippuu
+ikkunan alareunaa kohti.
 
-yksi rivi lisää
-
-<sub>*pieni muutos*</sub>
 
